@@ -11,7 +11,7 @@ pip install llama-index llama-index-llms-groq llama-index-embeddings-huggingface
 Export Groq API key
 
 ```shell
-export export GROQ_API_KEY=gsk_xxxxxxxxxxxx
+export GROQ_API_KEY=gsk_xxxxxxxxxxxx
 ```
 
 ### Index PDFs
